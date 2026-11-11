@@ -5,7 +5,7 @@ Technology Sydney (2026) and build computer-vision and deep-learning application
 
 ## Featured projects
 
-- **Football Vision Analytics Studio** (UTS final industry project, repository coming soon): player
+- **[Football Vision Analytics Studio](https://github.com/abhijithj2k/Soccer-CV):** player
   tracking, team identification, pitch mapping and a Gradio dashboard for football footage.
 - **[Waste Image Classification](https://github.com/abhijithj2k/Garbage-classification):** ResNet50,
   EfficientNetB3 and YOLOv11 compared on 17,000+ images.
