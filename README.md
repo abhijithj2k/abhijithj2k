@@ -1,5 +1,5 @@
 # Hi, I'm Abhijith
-
+AI application developer | Master of AI (UTS) | Computer vision and deep learning in Python | Sydney
 AI application developer based in Sydney. I hold a Master of Artificial Intelligence from the University of
 Technology Sydney (2026) and build computer-vision and deep-learning applications in Python.
 
