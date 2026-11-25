@@ -13,7 +13,13 @@ Technology Sydney (2026) and build computer-vision and deep-learning application
 
 ## Skills
 
-Python, PyTorch, TensorFlow/Keras, OpenCV, YOLO, scikit-learn, AWS SageMaker, SQL, Java, C++, C, R.
+Python, PyTorch, TensorFlow/Keras, OpenCV, YOLO, scikit-learn, AWS (SageMaker, CloudWatch, CloudFront), SQL, Java, C++, C, R.
+
+## Experience
+
+- **Technical Support Engineer, Zuora:** Chennai, Jan 2023 to Feb 2024
+- **Machine Learning Intern, HighRadius:** Chennai, Jan to Apr 2022
+- **Machine Learning Intern, Verzeo:** Bangalore, Feb to Mar 2022
 
 ## Contact
 
