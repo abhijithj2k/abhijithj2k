@@ -20,8 +20,8 @@ AI and ML engineering roles in **gaming, automotive and sports tech**, where com
 | [**Football Vision Analytics Studio**](https://github.com/abhijithj2k/Soccer-CV) | Player tracking, team identification, pitch mapping and a Gradio dashboard on SoccerNet footage | IDF1 0.796 (BoT-SORT + ReID) and 93.8% track-level team accuracy on SNMOT-066 |
 | [**Waste Image Classification**](https://github.com/abhijithj2k/Garbage-classification) | ResNet50, EfficientNetB3 and YOLOv11 compared on 17,000+ images | Three-model comparison |
 | **AI-powered CV Builder** | RAG over job listings, a tool-calling agent and editable CVs exported as PDF | 12 of 12 tests passed |
-| **Traffic forecasting** | Next-hour vehicle counts with a decision tree on real hourly data | Test MAE 172.4 vehicles/hour, 33.4% lower than the stronger baseline |
-| **S.C.O.U.T.** (team project) | Reinforcement learning for autonomous drone search and hazard analysis | SAC 96.2% detection vs PPO 93.8% and TD3 86.9% |
+| [**Traffic forecasting**](https://github.com/abhijithj2k/Traffic-Forecasting) | Next-hour vehicle counts with a decision tree on real hourly data | Test MAE 172.4 vehicles/hour, 33.4% lower than the stronger baseline |
+| [**S.C.O.U.T.**](https://github.com/abhijithj2k/SCOUT-RL-Drone-Search) (team project) | Reinforcement learning for autonomous drone search and hazard analysis | SAC 96.2% detection vs PPO 93.8% and TD3 86.9% |
 | [**Quantum Projects**](https://github.com/abhijithj2k/Quantum-projects) | Two games driven by quantum circuits | Quantum Penalty Shootout and Qubit Quest |
 
 ## Currently building
